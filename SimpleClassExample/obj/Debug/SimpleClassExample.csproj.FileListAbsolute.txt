@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+E:\Мои проекты в Visual Studio\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+E:\Мои проекты в Visual Studio\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+E:\Мои проекты в Visual Studio\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+E:\Мои проекты в Visual Studio\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
